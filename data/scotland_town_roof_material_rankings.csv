@@ -1,0 +1,69 @@
+roof_description,rank_roof_overall,average_roof_energy_eff,average_co2_emissions_current_per_floor_area_(kg.co2/m²/yr)
+"Pitched, 25 mm loft insulation",60,2.0,65.16822429906541
+"Pitched, insulated (assumed)",31,3.8004637382455235,42.58695092103568
+"Roof room(s), insulated (assumed)",30,4.2328802256988975,41.84393434213901
+"Roof room(s), no insulation (assumed)",67,1.032369277916108,80.52543574027963
+"Pitched, 250 mm loft insulation",37,4.0,45.91763205075162
+"Pitched, 200 mm loft insulation",39,4.0,47.88445653913879
+"Pitched, 100 mm loft insulation",48,3.0,55.8429996710887
+"Pitched, 270 mm loft insulation",35,4.0,45.542598716203074
+"Roof room(s), insulated",40,3.7708181597475114,50.62102452051469
+"Pitched, 150 mm loft insulation",41,4.0,50.79828606767383
+"Pitched, no insulation (assumed)",63,1.0,72.16736663390225
+"Pitched, 300 mm loft insulation",34,5.0,43.634416243654826
+"Roof room(s), ceiling insulated",58,2.4294670846394983,63.08453500522466
+"Pitched, no insulation",68,1.0017584994138335,85.09320046893318
+"Pitched, 50 mm loft insulation",54,2.0,61.55555555555556
+Average thermal transmittance 0.10 W/m²K,5,5.0,12.832116104868915
+Average thermal transmittance 0.11 W/m²K,2,5.0,12.058988764044944
+Average thermal transmittance 0.15 W/m²K,6,4.0,13.32334200260078
+Average thermal transmittance 0.12 W/m²K,10,5.0,14.206813819577736
+Average thermal transmittance 0.18 W/m²K,17,4.0,18.5
+Average thermal transmittance 0.14 W/m²K,8,5.0,13.698492840994726
+"Flat, limited insulation (assumed)",61,1.3761109136153573,65.90828297191611
+"Pitched, limited insulation (assumed)",55,1.2919200695047786,61.57486243845931
+"Pitched, 75 mm loft insulation",52,3.0,57.21098901098901
+"Flat, no insulation (assumed)",64,1.0,74.37248322147651
+"Flat, insulated (assumed)",36,3.4918801876578853,45.82984482136413
+"Pitched, 350 mm loft insulation",29,5.0,39.38373464373464
+(another dwelling above),46,5.0,54.502378686964796
+"Flat, insulated",45,3.618811881188119,53.013366336633666
+"Pitched, insulated",42,3.7900763358778624,51.71106870229007
+"Roof room(s), limited insulation (assumed)",57,2.4018691588785046,62.85556499575191
+"Pitched, 400+ mm loft insulation",24,5.0,34.30836363636364
+Average thermal transmittance 0.13 W/m²K,9,5.0,13.891205802357208
+"Pitched, insulated at rafters",44,3.3499308437067774,52.57579529737207
+Average thermal transmittance 0.1 W/m²K,13,5.0,16.193861066235865
+Average thermal transmittance 0.07 W/m²K,11,5.0,15.5125
+"Pitched, 12 mm loft insulation",65,1.0,75.82558139534883
+Average thermal transmittance 0.20 W/m²K,23,4.0,32.72727272727273
+Average thermal transmittance 0.09 W/m²K,4,5.0,12.645045045045045
+Average thermal transmittance 0.08 W/m²K,3,5.0,12.535885167464114
+"Pitched, 400 mm loft insulation",28,5.0,38.45679012345679
+"Pitched, limited insulation",62,2.0,67.21052631578948
+"Flat, limited insulation",56,2.0606060606060606,62.484848484848484
+Average thermal transmittance 0.24 W/m²K,33,4.0,43.125
+Average thermal transmittance 0.19 W/m²K,12,4.0,16.142857142857142
+"Pitched, *** INVALID INPUT Code : 57 *** loft insulation",53,1.5,59.25
+"Roof room(s), limited insulation",66,2.6041666666666665,77.875
+Average thermal transmittance 0.16 W/m²K,21,4.0,25.02777777777778
+"Thatched, with additional insulation",51,4.818181818181818,56.72727272727273
+Average thermal transmittance 0.17 W/m²K,18,4.0,21.529411764705884
+Average thermal transmittance 1.22 W/m²K,32,1.0,43.0
+Thatched,43,3.4,52.0
+Average thermal transmittance 0.22 W/m²K,22,4.0,30.266666666666666
+Average thermal transmittance 0.31 W/m²K,16,3.0,18.0
+Average thermal transmittance 0.25 W/m²K,14,4.0,17.0
+"Pitched, 0 mm loft insulation",59,1.4615384615384615,63.69230769230769
+Average thermal transmittance 0.81 W/m²K,27,2.0,38.0
+Average thermal transmittance 0.38 W/m²K,69,3.0,103.0
+Average thermal transmittance 0.21 W/m²K,25,4.0,37.0
+Average thermal transmittance 0.06 W/m²K,1,5.0,12.0
+Average thermal transmittance 0.32 W/m²K,7,3.0,13.375
+Average thermal transmittance 0.23 W/m²K,20,4.0,24.666666666666668
+Average thermal transmittance 0.40 W/m²K,26,3.0,38.0
+Average thermal transmittance 0.35 W/m²K,50,3.0,56.333333333333336
+"Roof room(s), thatched",49,4.0,56.0
+"Pitched, 400+  mm loft insulation",38,5.0,46.5
+Average thermal transmittance 0.29 W/m²K,19,4.0,22.0
+Average thermal transmittance 0.05 W/m²K,15,5.0,18.0
