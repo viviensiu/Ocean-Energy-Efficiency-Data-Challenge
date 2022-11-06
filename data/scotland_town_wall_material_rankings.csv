@@ -1,0 +1,115 @@
+wall_description,rank_wall_overall,average_wall_energy_eff,average_co2_emissions_current_per_floor_area_(kg.co2/m²/yr)
+"Cavity wall, as built, no insulation (assumed)",102,2.0006391975612154,58.981119087422556
+"Cavity wall, filled cavity",81,3.2508520029051904,46.26893401866026
+"Cavity wall, as built, partial insulation (assumed)",91,3.001178411501296,52.18288946500118
+"Cavity wall, as built, insulated (assumed)",74,4.161396970425583,42.22822793940851
+"Sandstone or limestone, with internal insulation",84,4.234492160872529,49.11431492842536
+"Solid brick, with internal insulation",89,4.387888707037643,50.636661211129294
+"System built, with external insulation",68,4.087905855664256,41.21946689352049
+"Granite or whinstone, with internal insulation",96,4.267403314917127,55.51889502762431
+"Timber frame, as built, insulated (assumed)",57,4.3517696965771835,36.79003594443186
+"Sandstone or limestone, as built, no insulation (assumed)",101,1.849660557881037,58.078564142249114
+"System built, as built, no insulation (assumed)",97,1.2514950703087118,55.971165346694676
+"Solid brick, as built, no insulation (assumed)",98,1.9034339229968782,56.06253902185224
+"Solid brick, as built, partial insulation (assumed)",87,2.999866808737347,50.24387320191796
+"Granite or whinstone, as built, no insulation (assumed)",108,1.7960905639150613,74.70049219519055
+"Cavity wall, with external insulation",75,4.070526117292099,42.95907976617009
+"Timber frame, as built, no insulation (assumed)",106,1.4884032114183765,70.34478144513827
+"Timber frame, as built, partial insulation (assumed)",103,3.0,59.95251857968621
+"Sandstone or limestone, as built, partial insulation (assumed)",95,2.99949924887331,54.87831747621432
+Average thermal transmittance 0.20 W/m²K,10,5.0,13.549491211840888
+Average thermal transmittance 0.21 W/m²K,8,5.0,12.915417156286722
+Average thermal transmittance 0.22 W/m²K,7,5.0,12.72569306930693
+Average thermal transmittance 0.25 W/m²K,21,5.0,17.30952380952381
+"Solid brick, as built, insulated (assumed)",62,4.362207415000854,38.835810695369894
+"System built, as built, insulated (assumed)",36,4.441197691197691,27.69083694083694
+Average thermal transmittance 0.24 W/m²K,20,5.0,16.553956834532375
+"Sandstone or limestone, as built, insulated (assumed)",73,4.333099579242637,42.07784011220196
+"Solid brick, with external insulation",79,4.124195032198712,45.25758969641215
+"Timber frame, with additional insulation",88,4.195476575121163,50.463166397415186
+"Cavity wall, with internal insulation",86,4.320413436692506,49.87080103359173
+Average thermal transmittance 0.14 W/m²K,2,5.0,11.39853747714808
+Average thermal transmittance 0.15 W/m²K,15,5.0,14.775716845878136
+"Granite or whinstone, as built, insulated (assumed)",83,4.33547557840617,47.790488431876604
+"Cavity wall, filled cavity and external insulation",78,4.75177304964539,43.3386524822695
+"Sandstone or limestone, with external insulation",82,4.038961038961039,47.78787878787879
+"System built, as built, partial insulation (assumed)",99,3.0,56.96153846153846
+Average thermal transmittance 0.19 W/m²K,14,5.0,14.674407195421095
+Average thermal transmittance 0.18 W/m²K,11,5.0,14.038198324022346
+Average thermal transmittance 0.17 W/m²K,4,5.0,12.119245734809937
+Average thermal transmittance 0.16 W/m²K,9,5.0,13.535280151946818
+"Granite or whinstone, as built, partial insulation (assumed)",104,3.0,66.26335877862596
+"System built, with internal insulation",90,4.120274914089347,50.8041237113402
+"Cavity wall, filled cavity and internal insulation",69,4.731343283582089,41.365671641791046
+Average thermal transmittance 0.23 W/m²K,16,5.0,15.588709677419354
+Average thermal transmittance 0.28 W/m²K,47,4.857142857142857,31.80952380952381
+Average thermal transmittance 0.11 W/m²K,5,5.0,12.188888888888888
+Average thermal transmittance 0.13 W/m²K,6,5.0,12.698347107438016
+Average thermal transmittance 0.12 W/m²K,13,5.0,14.640449438202246
+Average thermal transmittance 0.29 W/m²K,60,4.785714285714286,38.357142857142854
+Average thermal transmittance 0.26 W/m²K,22,4.388888888888889,18.833333333333332
+"Park home wall, as built",100,2.810344827586207,57.56896551724138
+"Granite or whinstone, with external insulation",105,4.137931034482759,67.60344827586206
+Average thermal transmittance 1.09 W/m²K,61,2.0,38.5
+"Park home wall, with external insulation",85,3.1666666666666665,49.56666666666667
+Average thermal transmittance 0.64 W/m²K,107,3.0,70.5
+Average thermal transmittance 0.62 W/m²K,44,3.0,31.5
+Average thermal transmittance 0.71 W/m²K,54,3.0,35.0
+"Cob, as built",92,3.5652173913043477,52.91304347826087
+Average thermal transmittance 0.63 W/m²K,55,3.0,36.5
+Average thermal transmittance 0.40 W/m²K,35,4.0,27.5
+Average thermal transmittance 0.78 W/m²K,54,3.0,35.0
+Average thermal transmittance 0.53 W/m²K,80,4.0,45.75
+Average thermal transmittance 0.52 W/m²K,48,4.0,32.0
+Average thermal transmittance 0.67 W/m²K,39,3.0,29.0
+Average thermal transmittance 0.60 W/m²K,41,4.0,30.0
+Average thermal transmittance 0.36 W/m²K,38,4.0,28.5
+Average thermal transmittance 0.66 W/m²K,76,3.0,43.0
+Average thermal transmittance 0.84 W/m²K,58,3.0,38.0
+Average thermal transmittance 0.10 W/m²K,3,5.0,11.833333333333334
+Average thermal transmittance 0.27 W/m²K,25,5.0,21.5
+Average thermal transmittance 0.43 W/m²K,17,4.0,15.666666666666666
+Average thermal transmittance 0.35 W/m²K,33,4.0,26.333333333333332
+Average thermal transmittance 0.38 W/m²K,42,4.0,30.616666666666667
+Average thermal transmittance 0.00 W/m²K,12,5.0,14.5
+Average thermal transmittance 0.30 W/m²K,46,4.0,31.666666666666668
+Average thermal transmittance 0.48 W/m²K,64,4.0,40.0
+Average thermal transmittance 1.51 W/m²K,40,2.0,29.5
+Average thermal transmittance 1.36 W/m²K,59,2.0,38.0
+Average thermal transmittance 1.21 W/m²K,67,2.0,41.0
+Average thermal transmittance 0.79 W/m²K,65,3.0,40.5
+Average thermal transmittance 0.47 W/m²K,32,4.0,25.0
+Average thermal transmittance 0.81 W/m²K,49,3.0,32.0
+Average thermal transmittance 0.45 W/m²K,41,4.0,30.0
+Average thermal transmittance 0.58 W/m²K,38,4.0,28.5
+Average thermal transmittance 0.41 W/m²K,34,4.0,27.333333333333332
+Average thermal transmittance 0.65 W/m²K,70,3.0,42.0
+Average thermal transmittance 0.99 W/m²K,51,3.0,33.0
+Average thermal transmittance 0.92 W/m²K,63,3.0,39.0
+Average thermal transmittance 0.70 W/m²K,53,3.0,34.0
+Average thermal transmittance 0.77 W/m²K,39,3.0,29.0
+Average thermal transmittance 0.09 W/m²K,1,5.0,-2.5
+"Park home wall, with internal insulation",77,3.0,43.25
+Average thermal transmittance 0.83 W/m²K,43,3.0,31.0
+Average thermal transmittance 1.11 W/m²K,94,2.0,54.0
+Average thermal transmittance 1.42 W/m²K,56,2.0,36.5
+Average thermal transmittance 1.80 W/m²K,72,1.0,42.0
+Average thermal transmittance 1.26 W/m²K,50,2.0,32.0
+Average thermal transmittance 1.63 W/m²K,93,1.0,53.0
+Average thermal transmittance 1.55 W/m²K,29,2.0,23.0
+Average thermal transmittance 1.70 W/m²K,30,1.0,23.0
+Average thermal transmittance 1.31 W/m²K,45,2.0,31.5
+Average thermal transmittance 1.06 W/m²K,26,2.0,21.5
+Average thermal transmittance 1.29 W/m²K,52,2.0,33.0
+Average thermal transmittance 1.07 W/m²K,71,2.0,42.0
+Average thermal transmittance 1.57 W/m²K,52,2.0,33.0
+Average thermal transmittance 0.76 W/m²K,28,3.0,22.0
+Average thermal transmittance 1.40 W/m²K,37,2.0,28.0
+Average thermal transmittance 0.33 W/m²K,24,4.0,20.0
+Average thermal transmittance 0.72 W/m²K,31,3.0,24.0
+Average thermal transmittance 0.46 W/m²K,66,4.0,41.0
+Average thermal transmittance 0.56 W/m²K,27,4.0,22.0
+Average thermal transmittance 0.73 W/m²K,23,3.0,19.0
+Average thermal transmittance 0.55 W/m²K,18,4.0,16.0
+Average thermal transmittance 0.68 W/m²K,19,3.0,16.0
+Average thermal transmittance 0.74 W/m²K,23,3.0,19.0
